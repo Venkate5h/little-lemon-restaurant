@@ -3,7 +3,7 @@ footer {
     margin-right: auto;
     display: flex;
     background-color: #EDEFEE;
-    padding: 0% 10%;
+    padding: 0% 20%;
     justify-content: space-between;
     align-items: center;
 
@@ -16,4 +16,5 @@ footer ul {
 footer li,
 footer li a {
     color: black;
+    text-decoration: none;
 }

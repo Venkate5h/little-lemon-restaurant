@@ -1,0 +1,10 @@
+input[type="submit"],
+button {
+    border-radius: 12px;
+    border-style: none;
+    padding: 8px 40px;
+    height: 40px;
+    font-weight: bold;
+    background-color: #F4CE14;
+    cursor: pointer;
+}
