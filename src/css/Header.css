@@ -1,0 +1,26 @@
+header {
+  display: flex;
+  align-items: center;
+  margin: 1% 10%;
+}
+
+header nav {
+  display: block;
+  width: 100%;
+}
+
+header nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+header li a {
+  color: black;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+header li a:hover {
+  font-weight: bold;
+}
